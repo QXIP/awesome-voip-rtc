@@ -28,6 +28,7 @@ A curated list of awesome projects, libraries, tools, etc. related to **VoIP** a
 ###### Monitoring Tools
 
 * [SIPCAPTURE](http://sipcapture.org) VoIP & RTC Capture, Monitoring and Troubleshooting framework, multi-protocol, carrier grade
+* [SIP3](https://sip3.io) VoIP & RTC traffic monitoring and analysis platform
 
 ###### Testing Tools
 
