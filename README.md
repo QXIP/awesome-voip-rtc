@@ -40,7 +40,7 @@ A curated list of awesome projects, libraries, tools, etc. related to **VoIP** a
 
 ##### Cross-Platform
 
-* [baresip](http://creytiv.org) Baresip is a portable and modular SIP User-Agent with audio and video support
+* [baresip](http://www.creytiv.com/baresip.html) Baresip is a portable and modular SIP User-Agent with audio and video support
 * [linphone](http://linphone.org) Linphone is an open source Voice Over IP phone (or SIP phone) 
 
 ------
