@@ -27,6 +27,7 @@ A curated list of awesome projects, libraries, tools, etc. related to **VoIP** a
 
 ###### Monitoring Tools
 
+* [sngrep](https://github.com/irontec/sngrep) Open Source, realtime terminal based SIP call flow generator and PCAP viewer
 * [SIPCAPTURE](http://sipcapture.org) VoIP & RTC Capture, Monitoring and Troubleshooting framework, multi-protocol, carrier grade
 
 ###### Testing Tools
