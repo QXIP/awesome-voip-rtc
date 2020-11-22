@@ -17,13 +17,17 @@ A curated list of awesome projects, libraries, tools, etc. related to **VoIP** a
 * [Asterisk](http://asterisk.org) Framework for building multi-protocol, real-time communications applications and solutions
 * [Sems](http://sems.org) Open Source media and application server for SIP based VoIP services
 
+###### RTP Proxies
+
+* [rtpengine](https://github.com/sipwise/rtpengine) rtpengine is a proxy for RTP traffic and other UDP based media traffic
+
 ###### RTC Gateways
 
 * [Janus](http://www.meetecho.com/en/) Open Source, general purpose, WebRTC gateway 
 
 ###### Billing
 
-* [cgrateS](http://cgrates.org/) Open Source, Carrier grade realtime charging 
+* [CGRateS](http://cgrates.org/) Open Source, Carrier grade realtime charging 
 
 ###### Monitoring Tools
 
@@ -34,7 +38,8 @@ A curated list of awesome projects, libraries, tools, etc. related to **VoIP** a
 ###### Testing Tools
 
 * [Sipp](http://sipp.sourceforge.net/) Open Source test tool / traffic generator for the SIP protocol.
- 
+* [VoIPPerf](https://github.com/jchavanton/voip_perf) SIP signaling performance testing application that can provide a server and a client.
+* [Sipsak](https://github.com/nils-ohlmeier/sipsak) SIP Swiss army knife.
 
 ------
 
@@ -43,7 +48,8 @@ A curated list of awesome projects, libraries, tools, etc. related to **VoIP** a
 ##### Cross-Platform
 
 * [baresip](http://www.creytiv.com/baresip.html) Baresip is a portable and modular SIP User-Agent with audio and video support
-* [linphone](http://linphone.org) Linphone is an open source Voice Over IP phone (or SIP phone) 
+* [linphone](http://linphone.org) Linphone is an open source Voice Over IP phone (or SIP phone)
+* [pjsua](https://www.pjsip.org/pjsua.htm) pjsua is an open source command line SIP user agent
 
 ------
 
@@ -51,7 +57,7 @@ A curated list of awesome projects, libraries, tools, etc. related to **VoIP** a
 
 * [eXosip](http://savannah.nongnu.org/projects/exosip/) - eXtended osip library
 * [Libre](http://www.creytiv.com/) - Portable SIP Stack under BSD license with IPv4/v6 support (SIP,SDP,RTP/RTCP,STUN,TURN,ICE,DNS)
-
+* [pjsip](https://www.pjsip.org/) - PJSIP is a free and open source multimedia communication library written in C
 
 ------
 
